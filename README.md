@@ -11,6 +11,14 @@ Project Structure:-
 -> Length_Menu.java
 -> Time_Menu.java
 
+## How to Run
+
+1. Download or clone the repository.
+2. Open the project in any Java IDE (IntelliJ, Eclipse, VS Code).
+3. Compile all `.java` files.
+4. Run `Main_Menu.java` to start the calculator.
+
+
 Contribution:-
 You can fork the repository and make improvements. Pull requests are welcome.
 
